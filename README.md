@@ -11,5 +11,5 @@
 - 😄 Pronouns: he/him, she/her, they/them
 - ⚡ Fun fact: Python is an open-source and object-oriented programming language developed by Guido van Possum in 1980s.
 - Translation: Python es un lenguaje de programación de código abierto y orientado a objetos desarrollado por Guido van Possum en la década de 1980.
-- Check out my blog (see python467759833.wordpress.com).
+- Check out my blog (see www.python467759833.wordpress.com).
 - Thank you!
